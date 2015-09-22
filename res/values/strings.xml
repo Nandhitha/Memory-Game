@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MemoryGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="memoryGame">MEMORY GAME</string>
+    <string name="play">Play</string>
+	<string name="settings">Settings</string>
+	<string name="instructions">Instructions</string>
+	<string name="exit">Exit</string>
+	<string name="score">Score</string>
+	<string name="level">Level</string>
+	<string name="done">Done</string>
+	<string name="temp1">Temp1</string>
+	<string name="result">Result</string>
+	<string name="nextLevel">Next Level</string>
+	<string name="playAgain">Play Again</string>
+	<string name="quit">Quit</string>
+	 <string name="toggle_turn_on">Sounds On</string>
+    <string name="toggle_turn_off">Sounds Off</string>
+	<string name="instruction">hi</string>
+</resources>
